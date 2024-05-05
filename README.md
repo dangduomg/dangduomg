@@ -1,4 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=85876662)
+![](https://komarev.com/ghpvc/?username=dangduomg)
 
 ### Hi there 👋
 
