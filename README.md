@@ -1,7 +1,11 @@
-### Hi there 👋
-Discord: dangduomg4076
-
 ![](https://komarev.com/ghpvc/?username=dangduomg)
+
+### Hi there 👋
+im 18, he/him and come from hanoi, vietnam<br>
+i make projects in my free time
+
+social media:
+- discord: elgatito4076
 
 <!--
 **dangduomg/dangduomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
