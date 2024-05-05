@@ -1,4 +1,5 @@
 ### Hi there 👋
+Discord: dangduomg4076
 
 ![](https://komarev.com/ghpvc/?username=dangduomg)
 
