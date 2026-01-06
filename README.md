@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=dangduomg)
 
 ### Hi there 👋
-im 18, he/him and come from hanoi, vietnam<br>
+im 19, he/him and come from hanoi, vietnam<br>
 i make projects in my free time
 
 social media:
