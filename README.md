@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=dangduomg)
 
 ### Hi there 👋
-im 19, he/him and come from hanoi, vietnam<br>
+im 20, he/him and come from hanoi, vietnam<br>
 i make projects in my free time
+
+my skills include: python, html, css, javascript, shell scripts<br>
 
 social media:
 - discord: elgatito4076
