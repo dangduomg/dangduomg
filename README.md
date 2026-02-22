@@ -4,7 +4,7 @@
 im 20, he/him and come from hanoi, vietnam<br>
 i make projects in my free time
 
-my skills include: python, html, css, javascript, shell scripts<br>
+my skills include: python, pygame, math, html, css, javascript, shell scripts, linux<br>
 
 social media:
 - discord: elgatito4076
